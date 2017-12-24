@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityLauncherModeDemo</string>
+    <string name="standard">Standard</string>
+    <string name="singletop">SingleTop</string>
+    <string name="singletask">SingleTask</string>
+    <string name="singleinstance">SingleInstance</string>
+
+
+    <string name="activity_info">%1$s   第%2$d个页面</string>
+</resources>
